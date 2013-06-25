@@ -1,0 +1,1 @@
+This project is a Text-Based RPG based on the World in the yet to be released book "Chronicles of Dark and Light" by David Hilton.
